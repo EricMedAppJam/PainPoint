@@ -1,5 +1,4 @@
 
-
 class fileutility():
 	
 	def __init__():
