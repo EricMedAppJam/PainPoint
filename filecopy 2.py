@@ -1,8 +1,5 @@
-
 class fileutility():
 	
-	def __init__():
-		None
 		
 	def safeOpen(prompt, mode, error):
 		while True:
